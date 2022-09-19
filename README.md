@@ -4,7 +4,7 @@ Trabajo para el curso de Machine Learning realizado a partir de la investigació
 # Integrantes
 * Anto Chávez, Carolain
 * Atarama Leon, Diego Sebastian
-* Yanayaco, David
+* Yanayaco Temoche, David Martin
 
 # Marco teórico
 
