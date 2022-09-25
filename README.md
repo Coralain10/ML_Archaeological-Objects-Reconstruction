@@ -16,6 +16,4 @@ Trabajo para el curso de Machine Learning realizado a partir de la investigació
 * **STL (stereolithography CAD)**: Dado que los objetos binvox resultantes del modelo serán impresos, estos serán convertidos a formato STL, ya que es el formato más usado para impresión 3D. 
 
 ### Conversiones entre modelos 3D
-Las conversiones necesarias son:
-* $OFF \rightarrow Binvox$
-* $Binvox \rightarrow STL$
+La conversión necesaria sería de Binvox a STL.
