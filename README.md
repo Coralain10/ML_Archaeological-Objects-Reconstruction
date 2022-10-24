@@ -12,7 +12,8 @@ Trabajo para el curso de Machine Learning realizado a partir de la investigació
 
 ### Formatos
 * **Geomview OFF**: Este es el formato usado para los modelos 3D en el dataset original.
-* **Binvox**: Los modelos en 3D con formato OFF son procesados como una grilla booleana de tamaño $32^3$ usando el programa Binvox, el cual es recibido por el modelo para entrenar y validar. Este es formato en el cual se encuentran los objetos en el dataset a analizar.
+* **Binvox**: Los modelos en 3D con formato OFF son procesados en un buffer de bits usando el programa Binvox.
+* **Array 3D**: Los archivos Binvox son convertidos a una grilla booleana de tamaño $32^3$, el cual es recibido por el modelo para entrenar y validar. Este es formato en el cual se encuentran los objetos en el dataset a analizar.
 * **STL (stereolithography CAD)**: Dado que los objetos binvox resultantes del modelo serán impresos, estos serán convertidos a formato STL, ya que es el formato más usado para impresión 3D. 
 
 ### Conversiones entre modelos 3D
